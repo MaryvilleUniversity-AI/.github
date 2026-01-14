@@ -1,8 +1,24 @@
+<p align="center">
+  <img src="src/images/maryville_ai_logo.jpg" alt="Maryville University AI Logo" width="200">
+</p>
+
 # Maryville University AI Organization
+
+[Official Website](https://maryvilleuniversity-ai.github.io) | [Repositories](https://github.com/orgs/MaryvilleUniversity-AI/repositories)
 
 Welcome to the **official Maryville University Artificial Intelligence (AI) GitHub organization**.
 
 This organization serves as a **central resource for students and the broader academic community** to explore and learn about **Artificial Intelligence, Machine Learning, Computer Vision, and Data Science** through practical examples and projects.
+
+---
+
+## Table of Contents
+
+- [About This Resource](#about-this-resource)
+- [Areas of Focus](#areas-of-focus)
+- [Who This Organization Is For](#who-this-organization-is-for)
+- [How to Use These Resources](#how-to-use-these-resources)
+- [Connect with Maryville University](#connect-with-maryville-university)
 
 ---
 
@@ -38,8 +54,7 @@ Repositories in this organization may include:
 - **Research Projects**
   Faculty-led and student-supported research initiatives in AI and data science
 
-> View all repositories:
-> https://github.com/orgs/MaryvilleUniversity-AI/repositories
+> View all repositories: [All Repositories](https://github.com/orgs/MaryvilleUniversity-AI/repositories)
 
 ---
 
@@ -62,13 +77,12 @@ Repositories in this organization may include:
 
 ## Connect with Maryville University
 
-- **Maryville University:** https://www.maryville.edu/
-- **Computer Science Department:** https://www.maryville.edu/as/computer-science/
+- **Maryville University:** [maryville.edu](https://www.maryville.edu/)
+- **Computer Science Department:** [CS Department](https://www.maryville.edu/as/computer-science/)
 - **Location:** St. Louis, Missouri
 - **Contact:** [amaurya@maryville.edu](mailto:amaurya@maryville.edu)
 
 ---
 
-## Keywords
-
-Artificial Intelligence, Machine Learning, Data Science, Computer Vision, AI Education, University AI Organization, Maryville University, Student AI Projects, Faculty Research
+<!-- Keywords for SEO (do not display) -->
+<!-- Keywords: Artificial Intelligence, Machine Learning, Data Science, Computer Vision, AI Education, University AI Organization, Maryville University, Student AI Projects, Faculty Research -->
